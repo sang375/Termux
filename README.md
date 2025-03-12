@@ -2,7 +2,13 @@
 Dự án này dùng để tạo lệnh khi sử dụng
 # 1.Tải Ubuntu bằng proot-distro
 Để tải Ubuntu trên Termux bằng proot-distro và làm theo cách sau đây
-# 1.Tải Ubuntu bằng proot-distro
+# 1.Tải Ubuntu
+Nhập lệnh này:
 ``` bash
 curl -s -o ~/x https://raw.githubusercontent.com/sang375/Termux/refs/heads/main/installubuntuprootdistro.sh
+```
+# 2.Vào Ubuntu
+Nhập lệnh này:
+``` bash
+curl -s -o ~/x https://raw.githubusercontent.com/sang375/Termux/refs/heads/main/ubuntuprootdistro.sh
 ```

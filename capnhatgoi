@@ -1,3 +1,0 @@
-echo Đang cập nhật gói...
-pkg update
-pkg upgrade -y

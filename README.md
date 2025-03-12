@@ -4,4 +4,5 @@ Dự án này dùng để tạo lệnh khi sử dụng
 Để tải Ubuntu trên Termux bằng proot-distro và làm theo cách sau đây
 # 1.Tải Ubuntu bằng proot-distro
 ``` bash
-curl -s -o ~/x 
+curl -s -o ~/x https://raw.githubusercontent.com/sang375/Termux/refs/heads/main/installubuntuprootdistro.sh
+```

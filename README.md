@@ -1,5 +1,7 @@
 # Termux
-Dự án này dùng để tạo lệnh
-Để cài các lệnh bạn hãy 
+Dự án này dùng để tạo lệnh khi sử dụng
+# 1.Tải Ubuntu bằng proot-distro
+Để tải Ubuntu trên Termux bằng proot-distro và làm theo cách sau đây
+# 1.Tải Ubuntu bằng proot-distro
 ``` bash
-pkg install wget
+curl -s -o ~/x 

@@ -20,4 +20,4 @@ Nhập lênh này:
 curl -s -o ~/x https://raw.githubusercontent.com/sang375/Termux/refs/heads/main/installqemusystemx8664.sh && . ~/x
 ```
 # 2.Xem cách lệnh trên qemu-system-x86_64
-Vào trang web sau:
+Vào trang web sau:`https://www.qemu.org/docs/master/index.html#`
